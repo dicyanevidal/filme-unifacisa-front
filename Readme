@@ -1,0 +1,14 @@
+filme-unifacisa-front
+
+FRONT DA APLICAO.
+
+Tecnologias utilizadas no projeto
+IONIC
+SPRING BOOT
+JAVA
+MYSQL
+DOCKER
+
+**Pré-requisitos**
+Você deve ter o MySql e o backend em execução.
+###docker build . -t dicyane/filme-unifacisa-back .             
